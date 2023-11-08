@@ -10,7 +10,6 @@ namespace Task_02
 
             Converter converter = InitConverter();
             MainOperation(converter);
-            
         }
 
         private static Converter InitConverter()
